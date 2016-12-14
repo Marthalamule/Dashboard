@@ -3,7 +3,7 @@ var city = "Fort Myers";
 
 function weather_app(){
 
-    var open_weather_api = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=2de143494c0b295cca9337e1e96b00e0";
+    var open_weather_api = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=bb6dc1407a3d85bb59ae9cdf27a6e8ea";
     var weather;
 
     $.getJSON(open_weather_api, function(data){

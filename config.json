@@ -1,6 +1,6 @@
 {
-    "core" : true,
-    "music-player" : true,
+    "core" : false,
+    "music-player" : false,
     "time" : true,
     "weather-app" : true,
     "bananas" : false,

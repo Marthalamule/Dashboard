@@ -1,5 +1,5 @@
 // Please enter the name of your city here.
-var city = "Binn";
+var city = "Fort Myers";
 
 function weather_app(){
 
